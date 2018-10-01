@@ -1,9 +1,9 @@
 <p align="center">
    
-   <a href=""><img src="https://img.shields.io/github/issues/FlorianB-AdrianS-AbdiA/ADWCD.svg"></a>
-   <a href=""><img src="https://img.shields.io/github/forks/FlorianB-AdrianS-AbdiA/ADWCD.svg" alt="issues"></a>
-   <a href=""><img src="https://img.shields.io/github/stars/FlorianB-AdrianS-AbdiA/ADWCD.svg" alt="forks"></a>
-   <a href=""><img src="https://img.shields.io/github/license/FlorianB-AdrianS-AbdiA/ADWCD.svg" alt="stars"></a>       
+   <a href=""><img src="https://img.shields.io/github/issues/FlorianB-GabrielS-AbdiA/ADWCD.svg"></a>
+   <a href=""><img src="https://img.shields.io/github/forks/FlorianB-GabrielS-AbdiA/ADWCD.svg" alt="issues"></a>
+   <a href=""><img src="https://img.shields.io/github/stars/FlorianB-GabrielS-AbdiA/ADWCD.svg" alt="forks"></a>
+   <a href=""><img src="https://img.shields.io/github/license/FlorianB-GabrielS-AbdiA/ADWCD.svg" alt="stars"></a>       
 </p>
 
 
