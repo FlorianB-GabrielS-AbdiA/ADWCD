@@ -52,9 +52,9 @@ Or clone the repository
 
 `sudo tar -xf ADWCD.tar.gz`
 
-`sudo chmod +x deploy.sh`
+`sudo chmod +x deploy.sh.x`
 
-`sudo ./deploy.sh`
+`sudo ./deploy.sh.x`
 
 License
 --------
