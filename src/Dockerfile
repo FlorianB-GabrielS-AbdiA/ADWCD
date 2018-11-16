@@ -1,4 +1,4 @@
-FROM debian:stable-slim 
+FROM casept/debian-armhf
 
 RUN apt-get -y update && apt-get -y upgrade
 RUN apt-get install -y apache2
@@ -13,4 +13,3 @@ CMD service apache2 restart
 
 EXPOSE 80
 EXPOSE 666
-
