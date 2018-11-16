@@ -76,7 +76,7 @@ sudo docker build -t btodocker "$path"
 # stopping docker instances 
 
 echo "( Debug ) stopping previous containers"
-sudo docker stop 9c1d729e2cb6 > /dev/null
+sudo docker stop 38e93ae2d409 > /dev/null
 sudo docker stop $( docker ps -a -q ) > /dev/null
 
 # starting docker file 
